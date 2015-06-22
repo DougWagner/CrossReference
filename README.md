@@ -1,5 +1,5 @@
 # CrossReference
-This is a cross reference program that reads any .cpp file and outputs every non-standard variable name and function call, along with line numbers on every occurence.
+This is a cross reference program that reads any .cpp file and outputs every non-standard variable function name, along with line numbers on every occurence.
 This program uses a hash table, linked list, and queue data structures that are all created by Doug Wagner. 
 
 Output when executed on CrossReference/Main.cpp:
