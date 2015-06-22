@@ -2,6 +2,8 @@
 This is a cross reference program that reads any .cpp file and outputs every non-standard variable function name, along with line numbers on every occurence.
 This program uses a hash table, linked list, and queue data structures that are all created by Doug Wagner. 
 
+This program was compiled and tested on MSVC 2013
+
 Output when executed on CrossReference/Main.cpp:
 
 Enter the full path of the file you want to read:
